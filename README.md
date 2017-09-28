@@ -5,6 +5,14 @@
 					The primary language we use is PHP and we use an MVC framework so please use this in your coding test.
 					We will want to run and connect to your code on our own machines so if there are any unusual pre-requisites please document them.
 				</p>
+				
+<h4>You should know</h4>
+<ul>
+	<li>You can test the result at this link: <a href="http://turnbew.com/ftp/tests/toucantech/public/" target="_blank">http://turnbew.com/ftp/tests/toucantech/public/</a></li>
+	<li>sources_laravel folder contains those files which were newly created in laravel 5.5</li>
+	<li>sources_mysql_tables folder contains exported file from phpmyadmin</li>
+	<li>You can read other technical details below</li>
+</ul>
         
 <h4>Used stuffs</h4>
 				<ul>
